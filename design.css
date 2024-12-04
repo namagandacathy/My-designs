@@ -1,0 +1,92 @@
+.black-dress {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    vertical-align: top;
+    border-radius: 75px;
+    margin-left: 35px;
+    margin-bottom: 45px
+    
+
+
+
+}
+
+.blue-dress {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    margin-left: 35px;
+object-fit: cover;
+}
+.thumbnails {
+margin: left 12px;x;
+width: 200px;
+background-color: blanchedalmond;
+display: flex;
+
+
+}
+.buttons {
+background-color:rgb(202, 171, 231);
+display: block;
+border-radius: 10px;
+padding: 20px;
+border-color: blue;
+border-style: 5px;
+border-width: 1px;
+color: blue;
+cursor: pointer;
+margin-right: 56px;
+font-weight: 45px;
+font-size: 30px;
+font-style: italic;
+box-shadow: 20px;
+}
+.buttons:hover{
+    opacity: 1px;
+
+}
+.navbar {
+    background-color: piink;
+    cursor: pointer;
+    font-size: 15px;
+    max-width: 50pxS;
+    border-width: 5px;
+    margin-left: 300px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: left;
+}
+
+.My-location {
+    font-size: medium;
+    color: indianred;
+    font-family: 'Times New Roman', Times, serifss;
+    
+    
+    
+
+}
+
+.money {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.push {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+
